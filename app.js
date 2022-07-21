@@ -55,7 +55,37 @@
 //     }
 //     alert(`The factorial of ${num} is ${fact}.`);
 // }
+           
+//         }
+//     }
+// console.log(occur)
+// }
 
+// function circumference(r){
+//     var calc = 2*3.142*r
+//     alert(" The Circumference of given radius of a circle is : "+ calc.toFixed(2))
+// }
+// circumference(3)
+// function area(r){
+//     var calc =3.14*r*r
+//     alert ("area of given radius of circle is" + calc.toFixed(2))
+// }
+// area(3)
+
+//  var name =prompt("enter a word")
+// for(var i = 0 ; i<name.length;i++){
+// var farword=name.slice(i,i+1)    
+// }
+
+//  for(var i = name.length-1 ; i>=0; i--){
+// var reverse = name.slice(i,i+1)
+// }
+// if (farword===reverse){
+//     alert("its palindram")
+
+// }else{
+//     alert("its not palindram"
+// }
 
 // /////////////////////////////////////Ye question puchna h sir se //////////////////////////////
 // function loop(){
